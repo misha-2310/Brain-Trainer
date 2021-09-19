@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Brain Trainer</string>
+    <string name="quiz_start">Go!</string>
+    <string name="time_second">Seconds</string>
+    <string name="time">00</string>
+    <string name="score">0/1</string>
+    <string name="result">Quiz result</string>
+    <string name="question">Quiz question</string>
+    <string name="a" />
+    <string name="b" />
+    <string name="c" />
+    <string name="d" />
+    <string name="again">Play Again</string>
+    <string name="quiz_score">Score of quiz</string>
+</resources>
